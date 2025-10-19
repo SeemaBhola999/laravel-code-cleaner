@@ -1,8 +1,8 @@
 # Laravel Code Cleaner 🧹
 
-[![Latest Version](https://img.shields.io/packagist/v/laravel/code-cleaner.svg)](https://packagist.org/packages/laravel/code-cleaner)
-[![License](https://img.shields.io/packagist/l/laravel/code-cleaner.svg)](https://packagist.org/packages/laravel/code-cleaner)
-[![PHP Version](https://img.shields.io/packagist/php-v/laravel/code-cleaner.svg)](https://packagist.org/packages/laravel/code-cleaner)
+[![Latest Version](https://img.shields.io/packagist/v/codecleaner/laravel-debug-cleaner.svg)](https://packagist.org/packages/codecleaner/laravel-debug-cleaner)
+[![License](https://img.shields.io/packagist/l/codecleaner/laravel-debug-cleaner.svg)](https://packagist.org/packages/codecleaner/laravel-debug-cleaner)
+[![PHP Version](https://img.shields.io/packagist/php-v/codecleaner/laravel-debug-cleaner.svg)](https://packagist.org/packages/codecleaner/laravel-debug-cleaner)
 
 A Laravel package to easily remove debug statements like `dump()`, `dd()`, `console.log()` from your code before deployment.
 
@@ -20,7 +20,7 @@ A Laravel package to easily remove debug statements like `dump()`, `dd()`, `cons
 ## 📦 Installation
 
 ```bash
-composer require laravel/code-cleaner
+composer require codecleaner/laravel-debug-cleaner
 ```
 
 The package will be auto-discovered by Laravel.

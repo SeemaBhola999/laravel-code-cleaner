@@ -1,5 +1,5 @@
 {
-    "name": "laravel/code-cleaner",
+    "name": "codecleaner/laravel-debug-cleaner",
     "description": "Laravel package to remove dump, dd, console statements from code - Compatible with Laravel 7-12+",
     "type": "library",
     "license": "MIT",
